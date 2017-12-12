@@ -18,4 +18,4 @@ Flask Code folder contains:
 Java Files folder contains:
 1. java user interface { IReS.java }
 
-![alt text](https://github.com/VamshikShetty/Project/blob/master/Image%20Recognition%20Software/example.png)
+![alt text](https://github.com/VamshikShetty/Image-Recognition-Software/blob/master/example.png)
