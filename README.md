@@ -13,7 +13,7 @@ Required Jar Files ( To support FileUpload and Http Request )
 
 Flask Code folder contains: 
 1. Web API  { __init__.py }
-2. Inception { templates -> python -> cnn -> Inceptionv3.py }
+2. Inception { templates/Inceptionv3.py }
 
 Java Files folder contains:
 1. java user interface { IReS.java }
